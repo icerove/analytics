@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Home.css"],"names":[],"mappings":"AAAA,WACE,SAAU,CACV,gBAAiB,CAGjB,qBAAmB,CACnB,iBAAkB,CAClB,8BACF","file":"main.caf8f6c1.chunk.css","sourcesContent":[".container {\n  width: 80%;\n  max-width: 1200px;\n  margin: auto;\n  margin-top: 50px;\n  margin-bottom: 32px;\n  text-align: center;\n  font-family: 'Inter', sans-serif;\n}\n"]}
